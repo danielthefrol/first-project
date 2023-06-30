@@ -1,3 +1,3 @@
-'''bash
+```bash
 cd /d/first-project/
-'''
+```
